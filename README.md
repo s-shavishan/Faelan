@@ -1,8 +1,8 @@
 # 🔒 Official Ownership Statement of RedFox-Coders (RFC)
 
-I, **Faelan** (aka @s-shavishan, @locha-xd), am the **original founder and current active developer** of RedFox-Coders (RFC), an independent development team focused on open-source, AI, and bot innovations.
+I, **Faelan** (also known as @s-shavishan and @locha-xd), am the **original founder and current active developer** of RedFox-Coders (RFC), an independent development team specializing in programming, open-source, AI, and bot innovations.
 
-This project and its branding — including but not limited to "RFC", "RedFox-Coders", the RFC logo, and its official bots (like Spartan-MD, NOIEYS-X, UAC-System) — were created and led by me since 2020.
+our projects and its branding — including but not limited to "RFC", "RedFox-Coders", the RFC logo, and its official bots (like Spartan-MD, NOIEYS-X, UAC-System) — were created and led by me since 2020.
 
 Any claims of ownership must be backed with **verifiable proof**.
 
