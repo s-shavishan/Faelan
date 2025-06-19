@@ -7,7 +7,7 @@ This project and its branding — including but not limited to "RFC", "RedFox-Co
 Any claims of ownership must be backed with **verifiable proof**.
 
 Official links:
-- GitHub: https://github.com/s-shavishan
+- GitHub: https://github.com/s-shavishan || https://github.com/locha-xd
 - Website: https://redfoxcoders.22web.org/
 - Projects: Spartan-MD, Horizon-MD, NOIEYS-X, UAC-System
 
